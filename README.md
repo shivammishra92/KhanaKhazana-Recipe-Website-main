@@ -33,26 +33,3 @@ BlissBites is a delightful recipe website built with EJS, Express, Node.js, and 
 ## Live Preview
 
 This project is hosted [here](https://blissbites-recipe-website.onrender.com).
-
-## Get this project in your local folder
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/ShadowSlayer03/BlissBites-Recipe-Website.git
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-
-3. **Set Up MongoDB:**
-
-- Ensure you have MongoDB installed and running.
-- Update MongoDB connection details in the configuration file.
-
-4. **Run the Application:**
-   ```bash
-   npx nodemon app.js
-
-5. **Access BlissBites:**
-   Open your web browser and visit http://localhost:3000 to explore BlissBites.
-  
