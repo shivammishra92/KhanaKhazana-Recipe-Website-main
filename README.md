@@ -1,6 +1,6 @@
-# BlissBites Recipe Website
+# KhanaKhazana Recipe Website
 
-BlissBites is a delightful recipe website built with EJS, Express, Node.js, and MongoDB. Explore a variety of mouth-watering recipes that cater to different tastes and preferences.
+KhanaKhazana is a delightful recipe website built with EJS, Express, Node.js, and MongoDB. Explore a variety of mouth-watering recipes that cater to different tastes and preferences.
 
 ## Features
 
@@ -18,7 +18,7 @@ BlissBites is a delightful recipe website built with EJS, Express, Node.js, and 
 
 - **Post Your Recipes for Free Online:** Why restrict showcasing your culinary skills just to your loved ones? Share your passion for cooking and the delicious recipes in your mind with the world.
 
-- **Responsive Design:** BlissBites is designed to be responsive, ensuring a seamless experience across various devices.
+- **Responsive Design:** KhanaKhazana is designed to be responsive, ensuring a seamless experience across various devices.
 
 ## Technologies Used
 
@@ -30,6 +30,3 @@ BlissBites is a delightful recipe website built with EJS, Express, Node.js, and 
 
 - **MongoDB:** NoSQL database for efficient storage and retrieval of recipe data.
 
-## Live Preview
-
-This project is hosted [here](https://blissbites-recipe-website.onrender.com).
